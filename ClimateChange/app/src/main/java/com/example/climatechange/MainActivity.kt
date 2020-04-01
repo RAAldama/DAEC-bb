@@ -1,9 +1,12 @@
 package com.example.climatechange
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
 import kotlinx.android.synthetic.main.activity_main.*
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.climatechange.LoginActivity
 
 class MainActivity : AppCompatActivity() {
 
